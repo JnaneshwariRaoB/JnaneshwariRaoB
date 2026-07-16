@@ -177,9 +177,7 @@ PHP + HTML + MySQL
 ## 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=JnaneshwariRaoB&theme=tokyonight"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JnaneshwariRaoB&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
