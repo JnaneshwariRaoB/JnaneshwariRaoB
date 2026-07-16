@@ -2,9 +2,8 @@
 <h3 align="center">Software Engineer | AI Enthusiast | Full Stack Developer | Cybersecurity Learner 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Information+Science+Engineer;Always+Learning+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Jnaneshwari+Rao+B;Software+Engineer+Intern+@+Black+Duck;Full+Stack+Developer;AI+%7C+Automation+%7C+Cybersecurity;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
-
 ---
 
 ## 👩‍💻 About Me
@@ -160,20 +159,6 @@ PHP + HTML + MySQL
 
 🏆 TechVision-25 Project Expo Participant
 
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=JnaneshwariRaoB&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=JnaneshwariRaoB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-</p>
 ---
 
 ## 🌐 Connect With Me
