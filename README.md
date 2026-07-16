@@ -177,9 +177,8 @@ PHP + HTML + MySQL
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JnaneshwariRaoB&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JnaneshwariRaoB&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
