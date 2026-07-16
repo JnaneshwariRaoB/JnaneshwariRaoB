@@ -60,10 +60,11 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### ⚙ Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,bitbucket" />
+### ⚙️ Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode,bitbucket" />
 </p>
 
 ---
