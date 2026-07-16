@@ -71,23 +71,6 @@
 
 # 🚀 Featured Projects
 
-## 📊 Automated Evaluation & Report Generation System
-
-✨ ERP platform for Outcome-Based Education
-
-🔹 Next.js
-
-🔹 Node.js
-
-🔹 Express.js
-
-🔹 MySQL
-
-✔ CO-PO Mapping
-
-✔ NBA Report Generation
-
----
 
 ## 🤖 AI Documentation Automation
 
@@ -102,6 +85,42 @@ Built during my internship.
 ✔ Bitbucket Integration
 
 ✔ Documentation Automation
+
+---
+
+
+## 🎓 Outcome-Based Education (OBE) ERP System ⭐ *(Major Project)*
+
+A full-stack ERP solution developed to automate **Outcome-Based Education (OBE)** processes for educational institutions. The system was built by gathering **real institutional requirements** and implementing them under the guidance of senior mentors.
+
+### 👩‍💻 My Role
+- 🎨 Designed and developed the complete **Frontend** using **Next.js**
+- 🔗 Integrated frontend with backend REST APIs
+- 📊 Built responsive dashboards for Faculty, HOD, and Admin
+- 📈 Developed modules for CO-PO Mapping and student performance analytics
+- 📑 Implemented NBA accreditation report generation interfaces
+- 🤝 Collaborated closely with the backend team during API integration and testing
+
+### 🛠 Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mysql,git,github" />
+</p>
+
+### ✨ Key Features
+- ✅ CO & PO Mapping
+- ✅ Faculty, HOD & Admin Dashboards
+- ✅ Student Performance Analytics
+- ✅ NBA Report Generation
+- ✅ Authentication & Role-Based Access
+- ✅ Responsive User Interface
+
+### 🔗 Repositories
+
+**🎨 Frontend:**  
+👉 https://github.com/JnaneshwariRaoB/demo_obe
+
+**⚙️ Backend (Team Collaboration):**  
+👉 https://github.com/Shradd123/obe_backend
 
 ---
 
