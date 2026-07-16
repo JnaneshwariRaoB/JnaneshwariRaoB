@@ -1,5 +1,191 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jnaneshwari Rao B</h1>
+<h3 align="center">Software Engineer | AI Enthusiast | Full Stack Developer | Cybersecurity Learner 🚀</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer+Intern;Full+Stack+Developer;AI+%26+Automation+Enthusiast;Information+Science+Engineer;Always+Learning+New+Things+🚀" />
+</p>
+
+---
+
+## 👩‍💻 About Me
+
+🎓 Information Science & Engineering Graduate
+
+💼 Software Engineer Intern @ **Black Duck Software Pvt. Ltd.**
+
+🤖 Passionate about AI, Automation, Full Stack Development & Secure Software Engineering
+
+🌱 Currently exploring
+
+- Agentic AI
+- Spring Boot
+- Microservices
+- Cloud Technologies
+- DevSecOps
+
+💡 I enjoy solving real-world problems through software and continuously learning new technologies.
+
+---
+
+## 🚀 Current Work
+
+🔹 Building AI-powered Documentation Automation
+
+🔹 Jira & Confluence API Integrations
+
+🔹 OAuth Authentication with Bitbucket
+
+🔹 CI/CD & DevSecOps Workflows
+
+🔹 Secure API Integrations
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,php,nextjs,nodejs,express" />
+</p>
+
+### 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### ⚙ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,bitbucket" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📊 Automated Evaluation & Report Generation System
+
+✨ ERP platform for Outcome-Based Education
+
+🔹 Next.js
+
+🔹 Node.js
+
+🔹 Express.js
+
+🔹 MySQL
+
+✔ CO-PO Mapping
+
+✔ NBA Report Generation
+
+---
+
+## 🤖 AI Documentation Automation
+
+Built during my internship.
+
+✔ Jira API
+
+✔ Confluence API
+
+✔ OAuth Authentication
+
+✔ Bitbucket Integration
+
+✔ Documentation Automation
+
+---
+
+## 🌐 Network Community & Influencer Detection
+
+Python-based analytics platform featuring
+
+✔ Community Detection
+
+✔ Influencer Analysis
+
+✔ Sentiment Analysis
+
+✔ Interactive Visualizations
+
+---
+
+## 👔 Tailor Shop Management System
+
+PHP + HTML + MySQL
+
+✔ Employee Management
+
+✔ Order Tracking
+
+✔ Delivery Monitoring
+
+---
+
+# 🏆 Achievements
+
+🥇 Software Engineer Intern at Black Duck
+
+🎖 NPTEL Elite – Data Analytics with Python
+
+🏅 MERN Stack Full Stack Development
+
+🏆 TechVision-25 Project Expo Participant
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=JnaneshwariRaoB&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnaneshwariRaoB&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=JnaneshwariRaoB&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** jnaneshwariraob@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/jnaneshwari-rao-b-a8962126a
+
+🐙 **GitHub:** https://github.com/JnaneshwariRaoB
+
+🏆 **HackerRank:** https://www.hackerrank.com/profile/bjraovikasanaga1
+
+---
+
+## 💬 Quote I Believe In
+
+> "Code. Learn. Build. Repeat. 🚀"
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! ⭐
+</p>
 <!--
 **JnaneshwariRaoB/JnaneshwariRaoB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
