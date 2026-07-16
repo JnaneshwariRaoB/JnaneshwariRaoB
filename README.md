@@ -162,14 +162,10 @@ PHP + HTML + MySQL
 
 ---
 
-# 📊 GitHub Stats
+# 📈 Contribution Graph
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=JnaneshwariRaoB&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnaneshwariRaoB&layout=compact&theme=tokyonight"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JnaneshwariRaoB&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
