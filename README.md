@@ -162,18 +162,17 @@ PHP + HTML + MySQL
 
 ---
 
-# 📈 Contribution Graph
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JnaneshwariRaoB&theme=tokyo-night&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=JnaneshwariRaoB&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ---
-
-## 🔥 GitHub Streak
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JnaneshwariRaoB&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=JnaneshwariRaoB&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
 </p>
 ---
 
