@@ -8,15 +8,6 @@ Software Engineer | AI & Automation Enthusiast | Full Stack Developer | Cybersec
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Jnaneshwari+Rao+B;Software+Engineer+Intern+at+Black+Duck;Building+AI-Powered+Automation+Systems;Full+Stack+Developer;AI+%7C+Automation+%7C+DevSecOps+%7C+Cybersecurity;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/JnaneshwariRaoB">
-    <img src="https://komarev.com/ghpvc/?username=JnaneshwariRaoB&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile views" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/bjraovikasanaga1">
-    <img src="https://img.shields.io/badge/HackerRank-Problem%20Solver-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank" />
-  </a>
-</p>
-
 ---
 
 # 👩‍💻 About Me
@@ -306,17 +297,6 @@ A web application designed to streamline tailoring business operations.
 
 </p>
 
-### ⭐ My HackerRank Skill Badges
-
-🐍 **Python** — ⭐⭐⭐
-
-💻 **C++** — ⭐⭐⭐
-
-☕ **Java** — ⭐
-
-🔷 **C Language** — ⭐⭐⭐
-
-🗄️ **SQL** — ⭐⭐
 
 <p align="center">
   <a href="https://www.hackerrank.com/profile/bjraovikasanaga1">
@@ -355,21 +335,7 @@ A web application designed to streamline tailoring business operations.
 🚀 Continuous Learning
 ```
 
----
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JnaneshwariRaoB&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JnaneshwariRaoB&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JnaneshwariRaoB&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
-</p>
 
 ---
 
