@@ -29,251 +29,63 @@ Software Engineer | AI & Automation Enthusiast | Full Stack Developer | Cybersec
 
 💡 I enjoy solving real-world problems through software, automation, and AI while continuously learning and adapting to new technologies.
 
----
+## 🚀 What I'm Working On
 
-# 🚀 Current Work
-
-Currently working on real-world software engineering and automation projects involving:
-
-🔹 **Multi-Agent Jira EPIC Automation**
-
-🔹 **AI-Powered Documentation Automation**
-
-🔹 **Jira & Confluence API Integrations**
-
-🔹 **LLM-based Workflow and Parameter Extraction**
-
-🔹 **OAuth-based Bitbucket Integrations**
-
-🔹 **Repository & Project Access Management**
-
-🔹 **GitLab CI/CD Workflows**
-
-🔹 **Microservices, Debugging & Testing**
-
-🔹 **Application Security & Secure API Integrations**
+- 🤖 **Multi-Agent Jira Automation** – EPIC analysis, ticket generation, story points, acceptance criteria & subtasks
+- 📄 **AI Documentation Automation** – Workflow extraction and Confluence documentation generation
+- 🔗 **Secure Integrations** – OAuth, Bitbucket APIs, repository & project access management
+- ⚙️ **CI/CD & Automation** – GitLab workflows, testing and automation
 
 ---
 
-# 🤖 AI-Powered Automation Experience
-
-During my Software Engineering Internship, I have been working on AI-driven automation systems using technologies such as:
-
-* OpenAI GPT Models
-* Claude API
-* LLMs
-* Jira
-* Confluence
-* Selenium
-* GitLab
-* Streamlit
-* GitLab CI/CD
-
-### 🧠 Multi-Agent Jira Automation
-
-Developed a multi-agent automation system that analyzes:
-
-* Jira EPICs
-* Technical Documentation
-* Existing Tickets
-* Repository Context
-
-The system helps automatically generate:
-
-* 📌 Jira Tickets
-* 📊 Story Points
-* ✅ Acceptance Criteria
-* 🧩 Subtasks
-
-### 📄 AI Documentation Automation
-
-Built an AI-powered documentation automation system that:
-
-* Extracts workflows and parameters
-* Analyzes technical information
-* Generates documentation
-* Updates Confluence release documentation
-* Reduces manual documentation effort
-* Improves development efficiency
-
-### 🔐 Secure Integrations
-
-Worked on OAuth-based Bitbucket integrations involving:
-
-* Authentication
-* Token Management
-* Repository Access
-* Project Access
-* Secure API Integrations
-
----
-
-# 🛠️ Tech Stack
-
-## 💻 Programming Languages
+## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css,nextjs,nodejs,express,mysql,mongodb,git,github,gitlab,azure,bitbucket" />
 </p>
 
-## 🌐 Web & Full Stack Development
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,php,nextjs,nodejs,express" />
-</p>
-
-## 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-## 🤖 AI, APIs & Automation
-
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-LLM%20Integration-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude%20API-AI%20Integration-D97757?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-Multi--Agent%20Systems-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Jira-API%20Integration-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-Documentation%20Automation-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-</p>
-
-## ⚙️ Tools & DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,azure,vscode,bitbucket" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/GitLab-CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-Automation-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-</p>
+**Also working with:**  
+`OpenAI` • `Claude API` • `LLMs` • `Jira` • `Confluence` • `Selenium` • `Streamlit` • `CI/CD`
 
 ---
 
-# 🚀 Featured Projects
+## ⭐ Featured Projects
 
-## 🤖 AI-Powered Jira & Documentation Automation
+### 🤖 AI-Powered Jira & Documentation Automation
 
-**Software Engineering Internship Project**
+An AI-powered automation solution designed to streamline software development workflows.
 
-An AI-powered automation solution designed to streamline software development and documentation workflows.
+**Highlights:**
 
-### ✨ Key Capabilities
+- Multi-agent EPIC analysis
+- Automated Jira ticket & subtask generation
+- Story point and acceptance criteria generation
+- AI-powered documentation processing
+- Confluence documentation updates
+- OAuth-based Bitbucket integrations
 
-* 🤖 Multi-agent EPIC analysis
-* 🎫 Automated Jira ticket generation
-* 📊 Story point generation
-* ✅ Acceptance criteria generation
-* 🧩 Automatic subtask generation
-* 📄 AI-powered technical documentation processing
-* 🔄 Confluence documentation generation and updates
-* 🔐 OAuth-based Bitbucket authentication
-* 🔗 Secure API integrations
-* ⚙️ CI/CD workflow support
-
-### 🛠️ Technologies
-
-`OpenAI` • `Claude API` • `LLMs` • `Jira` • `Confluence` • `Selenium` • `GitLab` • `Streamlit` • `Bitbucket`
+**Tech:** `OpenAI` • `Claude` • `Jira` • `Confluence` • `Selenium` • `GitLab` • `Streamlit`
 
 ---
 
-## 🎓 Automated Evaluation & Report Generation System for Outcome-Based Education ⭐
+### 🎓 Outcome-Based Education Automation System
 
-### 🏆 Major Project
+A full-stack ERP application for automating Outcome-Based Education (OBE) processes in educational institutions.
 
-A full-stack ERP web application developed to automate **Outcome-Based Education (OBE)** processes for educational institutions.
+**Features:** CO-PO Mapping • Performance Analytics • Role-Based Access • NBA Report Generation
 
-The system helps automate:
+**Tech:** `Next.js` • `Node.js` • `Express` • `MySQL`
 
-* 📊 CO-PO Mapping
-* 👨‍🎓 Student Performance Evaluation
-* 📈 Performance Analytics
-* 📄 NBA Accreditation Report Generation
-* 🔐 Authentication & Role-Based Access
-* 👩‍💼 Faculty, HOD & Admin Functionalities
-
-### 👩‍💻 My Contribution
-
-* 🎨 Designed and developed the frontend
-* ⚛️ Built responsive interfaces using **Next.js**
-* 🔗 Integrated frontend with backend REST APIs
-* 📊 Developed dashboards and academic management interfaces
-* 📈 Worked on CO-PO mapping and performance evaluation modules
-* 📑 Developed interfaces supporting NBA-format report generation
-* 🤝 Collaborated with the backend team for API integration and testing
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,mysql,git,github" />
-</p>
-
-### 🔗 Repositories
-
-**🎨 Frontend**
-
-👉 [OBE Frontend Repository](https://github.com/JnaneshwariRaoB/demo_obe)
-
-**⚙️ Backend – Team Collaboration**
-
-👉 [OBE Backend Repository](https://github.com/Shradd123/obe_backend)
+🔗 [Frontend Repository](https://github.com/JnaneshwariRaoB/demo_obe)  
+🔗 [Backend Repository](https://github.com/Shradd123/obe_backend)
 
 ---
 
-## 🌐 Network Community & Influencer Detection with Conversational Insights
+### 🌐 Network Community & Influencer Detection
 
-A Python-based analytics platform focused on understanding communities, influencers, and conversations.
+A Python-based analytics platform for community detection, influencer identification, sentiment analysis, and conversational insights.
 
-### ✨ Features
-
-✔ Graph-based Community Detection
-
-✔ Influencer Identification
-
-✔ Sentiment Tracking
-
-✔ Conversational Insights
-
-✔ Interactive Visualizations
-
-### 🎯 Applications
-
-* Social Media Analytics
-* Business Intelligence
-* Public Relations
-* Research & Insights
-
-### 🛠️ Tech Stack
-
-`Python` • `Data Analysis` • `Graph Analytics` • `Sentiment Analysis`
-
----
-
-## 👔 Tailor Shop Management System
-
-A web application designed to streamline tailoring business operations.
-
-### ✨ Features
-
-✔ Customer Order Management
-
-✔ Employee Task Assignment
-
-✔ Order Tracking
-
-✔ Progress Monitoring
-
-✔ Delivery Management
-
-✔ Improved Business Efficiency
-
-### 🛠️ Tech Stack
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,html,css,mysql" />
-</p>
+**Tech:** `Python` • `Data Analysis` • `Graph Analytics` • `Sentiment Analysis`
 
 ---
 
