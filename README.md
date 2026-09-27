@@ -87,6 +87,8 @@ A Python-based analytics platform for community detection, influencer identifica
 
 **Tech:** `Python` • `Data Analysis` • `Graph Analytics` • `Sentiment Analysis`
 
+🔗 [Repository](https://github.com/JnaneshwariRaoB/Network-Community-and-Influencer-Detection-with-Conversational-Insights-Platform-web-application)
+
 ---
 
 # 🏆 HackerRank Badges & Problem Solving
