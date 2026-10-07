@@ -109,7 +109,7 @@ A Python-based analytics platform for community detection, influencer identifica
 | ------------- | :---------: |
 | 🐍 Python     |     ⭐⭐⭐     |
 | 💻 C++        |     ⭐⭐⭐     |
-| ☕ Java        |      ⭐      |
+| ☕ Java        |      ⭐⭐     |
 | 🔷 C Language |     ⭐⭐⭐⭐    |
 | 🗄️ SQL       |      ⭐⭐     |
 
