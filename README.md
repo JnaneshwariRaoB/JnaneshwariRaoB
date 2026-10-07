@@ -29,15 +29,6 @@ Software Engineer | AI & Automation Enthusiast | Full Stack Developer | Cybersec
 
 💡 I enjoy solving real-world problems through software, automation, and AI while continuously learning and adapting to new technologies.
 
-## 🚀 What I'm Working On
-
-- 🤖 **Multi-Agent Jira Automation** – EPIC analysis, ticket generation, story points, acceptance criteria & subtasks
-- 📄 **AI Documentation Automation** – Workflow extraction and Confluence documentation generation
-- 🔗 **Secure Integrations** – OAuth, Bitbucket APIs, repository & project access management
-- ⚙️ **CI/CD & Automation** – GitLab workflows, testing and automation
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="left">
@@ -45,26 +36,39 @@ Software Engineer | AI & Automation Enthusiast | Full Stack Developer | Cybersec
 </p>
 
 **Also working with:**  
-`OpenAI` • `Claude API` • `LLMs` • `Jira` • `Confluence` • `Selenium` • `Streamlit` • `CI/CD`
+`OpenAI` • `Claude API` • `LLMs` • `Jira` • `Confluence` • `Selenium` • `Streamlit` • `CI/CD``Claude CLI`
 
 ---
 
 ## ⭐ Featured Projects
 
-### 🤖 AI-Powered Jira & Documentation Automation
+## 🤖 Project 1: AI-Powered Jira Automation
 
-An AI-powered automation solution designed to streamline software development workflows.
+AI-powered multi-agent system for automating Jira EPIC analysis and ticket planning.
 
-**Highlights:**
+### Highlights
+- Built an **8-phase AI pipeline** using **OpenAI GPT-4o**
+- Automated **EPIC analysis, repository intelligence, ticket planning, and verification**
+- Integrated **Jira, Confluence, GitHub/GitLab, and Streamlit**
+- Enabled automated execution through **GitLab CI/CD**
 
-- Multi-agent EPIC analysis
-- Automated Jira ticket & subtask generation
-- Story point and acceptance criteria generation
-- AI-powered documentation processing
-- Confluence documentation updates
-- OAuth-based Bitbucket integrations
+### Tech Stack
+`OpenAI GPT-4o` `Jira` `Confluence` `GitHub` `GitLab` `Streamlit``Claude`
 
-**Tech:** `OpenAI` • `Claude` • `Jira` • `Confluence` • `Selenium` • `GitLab` • `Streamlit`
+---
+
+## 📄 Project 2: Documentation & Ticket Automation
+
+Automation workflow for generating release documentation and Jira/POLDOC tickets.
+
+### Highlights
+- Automated **Confluence release documentation** generation
+- Extracted **workflows, images, and parameters** from Jira tickets
+- Automated **Jira/POLDOC ticket creation**
+- Used **GitLab CI/CD** with secure secrets management
+
+### Tech Stack
+`Jira` `Confluence` `GitLab` `GitLab CI/CD` `Python` `AI/LLM``Claude`
 
 ---
 
@@ -106,7 +110,7 @@ A Python-based analytics platform for community detection, influencer identifica
 | 🐍 Python     |     ⭐⭐⭐     |
 | 💻 C++        |     ⭐⭐⭐     |
 | ☕ Java        |      ⭐      |
-| 🔷 C Language |     ⭐⭐⭐     |
+| 🔷 C Language |     ⭐⭐⭐⭐    |
 | 🗄️ SQL       |      ⭐⭐     |
 
 </p>
